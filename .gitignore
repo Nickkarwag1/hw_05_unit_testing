@@ -3,3 +3,4 @@
 tsconfig.json
 .mocharc.json
 .prettierrc.json
+jest.config.js
